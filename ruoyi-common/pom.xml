@@ -84,6 +84,17 @@
             <artifactId>poi-ooxml</artifactId>
         </dependency>
 
+        <!-- 二维码工具 -->
+        <dependency>
+            <groupId>com.google.zxing</groupId>
+            <artifactId>core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.google.zxing</groupId>
+            <artifactId>javase</artifactId>
+
+        </dependency>
+
         <!-- yml解析器 -->
         <dependency>
             <groupId>org.yaml</groupId>
